@@ -12,7 +12,7 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: AmigaFont2.h
-Description: AmigaFont2 library
+Description: AmigaFont2
 
 
 
