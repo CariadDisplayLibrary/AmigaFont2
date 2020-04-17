@@ -1,2 +1,2 @@
-AmigaFont2.cpp libraries/DisplayCore/AmigaFont2
-AmigaFont2.h libraries/DisplayCore/AmigaFont2
+src libraries/DisplayCore/AmigaFont2
+library.properties libraries/DisplayCore/AmigaFont2
